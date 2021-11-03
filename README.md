@@ -10,6 +10,6 @@
 The **WORD** dataset will be released once the work is accepted, moreover, the dataset will be extended to larger and more diverse (more patients,  more organs, and more modalities, and MR Images will be considered to include future). Any questions, please contact [Xiangde](https://luoxd1996.github.io/).
 
 ## Acknowledgment and Statement
-* This work has been approved by the privacy and ethical review committee. We thank all collaborators for the data collection, annotation, checking, and user study!
+* This project has been approved by the privacy and ethical review committee. We thank all collaborators for the data collection, annotation, checking, and user study!
 
 * This project and dataset were designed for **open-available** academic research, **not** for clinical, commercial, second-development, or other use. In addition, if you used it for your academic research, you are encouraged to release th code and the pre-trained model.
