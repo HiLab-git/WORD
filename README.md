@@ -1,2 +1,1 @@
-# ABOD
-ABOD: Revisiting Abdominal Multi-Organ Segmentation
+# WORD: Revisiting Organs Segmentation in the Whole Abdominal Region
