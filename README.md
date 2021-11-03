@@ -3,7 +3,9 @@
 * Now, we are preparing an online evaluation server for the fair and open research if you have experience with it or want to join or provide some support to this project, please contact us !!!
 * Some information about the **WORD** dataset is  presented in the following:
 <div align=center>Fig. 1. An example in the WORD dataset.<img src="./figures/show_data_info.png"></div>
+
 <div align=center>Fig. 2. Volume distribution or each organ in the WORD dataset.<img src="./figures/size.png"></div>
+
 <div align=center>Fig. 3.  User study based on three junior oncologists independently, each of them comes from a different hospital.<img src="./figures/user.png"></div>
 
 # Dataset
