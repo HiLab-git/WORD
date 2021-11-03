@@ -11,4 +11,4 @@ The **WORD** dataset will be released once the work is accepted, moreover, the d
 ## Acknowledgment and Statement
 * This work has been approved by the privacy and ethical review committee. We thank all collaborators for the data collection, annotation, checking, and user study!
 
-* This project was designed for open-available academic research, not for clinical or commercial use. In addition, if you used it for your academic research you **must** release your code and the pre-trained model.
+* This project and dataset were designed for **open-available** academic research, **not** for clinical or commercial use. In addition, if you used it for your academic research, you **must** release your code and the pre-trained model.
