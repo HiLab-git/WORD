@@ -1,5 +1,5 @@
 # WORD: Revisiting Organs Segmentation in the Whole Abdominal Region.
-* This repository provides the codebase and dataset for our work **WORD: Revisiting Organs Segmentation in the Whole Abdominal Region**. 
+* This repository provides the codebase and dataset for our work **WORD: Revisiting Organs Segmentation in the Whole Abdominal Region** [Paper](https://arxiv.org/pdf/2111.02403.pdf). 
 * Now, we are preparing an online evaluation server for the fair and open research if you have experience with it or want to join or provide some support to this project, please contact us !!!
 * Some information about the **WORD** dataset is  presented in the following:
 <div align=center>Fig. 1. An example in the WORD dataset.<img src="./figures/show_data_info.png"></div>
