@@ -11,7 +11,16 @@
 # DataSet
 The **WORD** dataset will be released once the work is accepted (150 volumes with 16 carefully annotated organs), moreover, the dataset will be extended to larger and more diverse (more patients, more organs, and more modalities, more clinical hospitals' data and MR Images will be considered to include future). Any questions, please contact [Xiangde](https://luoxd1996.github.io/).
 
-## Acknowledgment and Statement
+# Acknowledgment and Statement
 * This project has been approved by the privacy and ethical review committee. We thank all collaborators for the data collection, annotation, checking, and user study!
 
 * This project and dataset were designed for **open-available** academic research, **not** for clinical, commercial, second-development, or other use. In addition, if you used it for your academic research, you are encouraged to release the code and the pre-trained model.
+
+# Reference
+
+              @article{luo2021word,
+                title={WORD: Revisiting Organs Segmentation in the Whole Abdominal Region},
+                author={Luo, Xiangde and Liao, Wenjun and Xiao, Jianghong and Song, Tao and Zhang, Xiaofan and Li, Kang and Wang, Guotai and Zhang, Shaoting},
+                journal={arXiv preprint arXiv:2111.02403},
+                year={2021}
+              }
