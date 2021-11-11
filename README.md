@@ -1,4 +1,4 @@
-# WORD: Revisiting Organs Segmentation in the Whole Abdominal Region ([Paper]](https://arxiv.org/pdf/2111.02403.pdf) and [DataSet](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view?usp=sharing)).
+# WORD: Revisiting Organs Segmentation in the Whole Abdominal Region ([Paper](https://arxiv.org/pdf/2111.02403.pdf) and [DataSet](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view?usp=sharing)).
 * This repository provides the codebase and dataset for our work **WORD: Revisiting Organs Segmentation in the Whole Abdominal Region**. 
 * Now, we are preparing an online evaluation server for the fair and open research if you have experience with it or want to join or provide some support to this project, please contact us !!!
 * Some information about the **WORD** dataset is  presented in the following:
@@ -14,4 +14,4 @@ The **WORD** dataset will be released once the work is accepted (150 volumes wit
 ## Acknowledgment and Statement
 * This project has been approved by the privacy and ethical review committee. We thank all collaborators for the data collection, annotation, checking, and user study!
 
-* This project and dataset were designed for **open-available** academic research, **not** for clinical, commercial, second-development, or other use. In addition, if you used it for your academic research, you are encouraged to release th code and the pre-trained model.
+* This project and dataset were designed for **open-available** academic research, **not** for clinical, commercial, second-development, or other use. In addition, if you used it for your academic research, you are encouraged to release the code and the pre-trained model.
