@@ -1,4 +1,4 @@
-# WORD: Revisiting Organs Segmentation in the Whole Abdominal Region.
+# WORD: Revisiting Organs Segmentation in the Whole Abdominal Region [[Google Drive](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view?usp=sharing)] and [[Baidu NetDisk](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view?usp=sharing)].
 * This repository provides the codebase and dataset for our work **[WORD](https://arxiv.org/pdf/2111.02403.pdf): Revisiting Organs Segmentation in the Whole Abdominal Region**. 
 * Now, we are preparing an online evaluation server for the fair and open research if you have experience with it or want to join or provide some support to this project, please contact us !!!
 * Some information about the **WORD** dataset is  presented in the following:
