@@ -9,7 +9,7 @@
 <div align=center>Fig. 3.  User study based on three junior oncologists independently, each of them comes from a different hospital.<img src="./figures/user.png"></div>
 
 # DataSet
-The **WORD** dataset will be released once the work is accepted (150 volumes with 16 carefully annotated organs), moreover, the dataset will be extended to larger and more diverse (more patients, more organs, and more modalities, more clinical hospitals' data and MR Images will be considered to include future). Any questions, please contact [Xiangde](https://luoxd1996.github.io/).
+**Note that**, the **WORD** dataset will be released once the work is accepted (150 volumes with 16 carefully annotated organs), moreover, the dataset will be extended to larger and more diverse (more patients, more organs, and more modalities, more clinical hospitals' data and MR Images will be considered to include future). Any questions, please contact [Xiangde](https://luoxd1996.github.io/).
 
 # Acknowledgment and Statement
 * This project has been approved by the privacy and ethical review committee. We thank all collaborators for the data collection, annotation, checking, and user study!
