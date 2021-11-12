@@ -16,6 +16,8 @@
 
 * This project and dataset were designed for **open-available** academic research, **not** for clinical, commercial, second-development, or other use. In addition, if you used it for your academic research, you are encouraged to release the code and the pre-trained model.
 
+* The interesting and memorable name **WORD** is suggested by [Dr. Jie-Neng](https://scholar.google.com/citations?user=yLYj88sAAAAJ&hl=zh-CN), thanks a lot !!!
+
 # Reference
 
     @article{luo2021word,
