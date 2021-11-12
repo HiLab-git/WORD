@@ -19,6 +19,7 @@
 * The interesting and memorable name **WORD** is suggested by [Dr. Jie-Neng](https://scholar.google.com/citations?user=yLYj88sAAAAJ&hl=zh-CN), thanks a lot !!!
 
 # Reference
+If you used the **WORD** dataset or codebase or others relevant in your research, please consider citing the following paper:
 
     @article{luo2021word,
       title={WORD: Revisiting Organs Segmentation in the Whole Abdominal Region},
