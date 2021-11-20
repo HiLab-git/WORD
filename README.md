@@ -17,13 +17,12 @@ Please contact Xiangde Luo (luoxd1996 AT gmail DOT com) for the dataset. Two ste
     Affiliation Email: (the password will be sent to this email, we just reply to the email which is the end of "edu".)
     How to use: (Only for academic research, not for commercial use or second-development.)
     
-In addition, this work is still ongoing, the **WORD** dataset will be extended to larger and more diverse (more patients, more organs, and more modalities, more clinical hospitals' data and MR Images will be considered to include future), any suggestions, comments, and collaborations are welcome. 
+In addition, this work is still ongoing, the **WORD** dataset will be extended to larger and more diverse (more patients, more organs, and more modalities, more clinical hospitals' data and MR Images will be considered to include future), any **suggestion**, **comment**, **collaboration**, and **sponsor** are welcome. 
 
 # Acknowledgment and Statement
 * This dataset belongs to the **Healthcare Intelligence Laboratory** at **University of Electronic Science and Technology of China** and is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
 * This project has been approved by the privacy and ethical review committee. We thank all collaborators for the data collection, annotation, checking, and user study!
 * This project and dataset were designed for **open-available** academic research, **not** for clinical, commercial, second-development, or other use. In addition, if you used it for your academic research, you are encouraged to release the code and the pre-trained model.
-
 * The interesting and memorable name **WORD** is suggested by [Dr. Jie-Neng](https://scholar.google.com/citations?user=yLYj88sAAAAJ&hl=zh-CN), thanks a lot !!!
 
 # Citation
