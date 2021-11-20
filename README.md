@@ -9,7 +9,17 @@
 <div align=center>Fig. 3.  User study based on three junior oncologists independently, each of them comes from a different hospital.<img src="./figures/user.png"></div>
 
 # DataSet
-**Note that**, the **WORD** dataset will be released once the work is accepted (150 volumes with 16 carefully annotated organs), moreover, the dataset will be extended to larger and more diverse (more patients, more organs, and more modalities, more clinical hospitals' data and MR Images will be considered to include future). Any questions, please contact [Xiangde](https://luoxd1996.github.io/).
+
+
+Please contact Xiangde Luo (luoxd1996 AT gmail DOT com) for the dataset. Two steps are needed to download and fully access the dataset: (1) using your google email to apply for the download permission; (2) using your affiliation email to get the unzip password. We will get back to you after the paper is accepted. We will just handle the real-name email and your email suffix must match your affiliation. The email should contain the following information:
+
+    {Name: (Tell us who you are.)
+    Affiliation: (The name/homepage of your institution or university, etc.)
+    Job Title: (E.g., Professor, Associate Professor, Ph.D., etc.)
+    Email: (the password will be sent to this email, we just reply to the email which is the end of "edu").
+    How to use: (Only for academic research, not for commercial use.)}
+
+In addition, this work is still ongoing, the **WORD** dataset will be extended to larger and more diverse (more patients, more organs, and more modalities, more clinical hospitals' data and MR Images will be considered to include future), any suggestions, comments, and collaborations are welcome. 
 
 # Acknowledgment and Statement
 * This project has been approved by the privacy and ethical review committee. We thank all collaborators for the data collection, annotation, checking, and user study!
