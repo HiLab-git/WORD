@@ -1,5 +1,5 @@
 # <div align=center> WORD: Revisiting Organs Segmentation in the Whole Abdominal Region ([Paper](https://arxiv.org/pdf/2111.02403.pdf) and [DataSet](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view?usp=sharing)).</div>
-* [**New**] Note that all the emails about the download permission of WORD will be handled after the paper is accepted, all information will be updated in time in this repo, please don't send them multiple times!!!
+* [**New**] **Note that all the emails about the download permission of WORD will be handled after the paper is accepted, all information will be updated in time in this repo, please don't send them multiple times!!!**
 * This repo provides the codebase and dataset of work **WORD: Revisiting Organs Segmentation in the Whole Abdominal Region**, and **the download requirement will be approved after the paper is accepted, stay tuned !!!**
 * Now, we are preparing an online evaluation server for the fair and open research if you have experience with it or want to join or provide some support to this project, please contact us !!!
 * Some information about the **WORD** dataset is  presented in the following:
