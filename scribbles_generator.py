@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Author: Shuojue Yang and Xiangde Luo
+# Author: Shuojue Yang (main contribution) and Xiangde Luo (minor modification for WORD).
 # Date:   16 Dec. 2021
 # Implementation for simulation of the sparse scribble annotation based on the dense annotation in the WORD dataset.
 # # Reference:
