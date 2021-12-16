@@ -30,7 +30,7 @@ In addition, this work is still ongoing, the **WORD** dataset will be extended t
 It would be highly appreciated if you cite our paper when using the **WORD** dataset or code:
 
     @article{luo2021word,
-      title={WORD: Revisiting Organs Segmentation in the Whole Abdominal Region},
+      title={{WORD}: Revisiting Organs Segmentation in the Whole Abdominal Region},
       author={Luo, Xiangde and Liao, Wenjun and Xiao, Jianghong and Song, Tao and Zhang, Xiaofan and Li, Kang and Wang, Guotai and Zhang, Shaoting},
       journal={arXiv preprint arXiv:2111.02403},
       year={2021}
