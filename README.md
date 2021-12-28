@@ -1,4 +1,4 @@
-# <div align=center> WORD: Revisiting Organs Segmentation in the Whole Abdominal Region ([Paper](https://arxiv.org/pdf/2111.02403.pdf) and [DataSet](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view?usp=sharing)).</div>
+# <div align=center> WORD: Revisiting Organs Segmentation in the Whole Abdominal Region ([Paper](https://arxiv.org/pdf/2111.02403.pdf) and [DataSet](https://drive.google.com/drive/folders/16qwlCxH7XtJD9MyPnAbmY4ATxu2mKu67?usp=sharing)).</div>
 * [**New**] **Note that all the emails about the download permission of WORD will be handled after the paper is accepted, all information will be updated in time in this repo, please don't send them multiple times!!!**
 * This repo provides the codebase and dataset of work **WORD: Revisiting Organs Segmentation in the Whole Abdominal Region**, and **the download requirement will be approved after the paper is accepted, stay tuned !!!**
 * Now, we are preparing an online evaluation server for the fair and open research if you have experience with it or want to join or provide some support to this project, please contact us !!!
@@ -10,7 +10,7 @@
 <div align=center>Fig. 3.  User study based on three junior oncologists independently, each of them comes from a different hospital.<img src="./figures/user.png"></div>
 
 # DataSet
-Please contact Xiangde (luoxd1996 AT gmail DOT com) for the dataset. Two steps are needed to download and access the dataset: **1) using your google email to apply for the [download permission](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view?usp=sharing)**; **2) using your affiliation email to get the unzip password**. We will get back to you after the paper is accepted. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
+Please contact Xiangde (luoxd1996 AT gmail DOT com) for the dataset. Two steps are needed to download and access the dataset: **1) using your google email to apply for the [download permission](https://drive.google.com/drive/folders/16qwlCxH7XtJD9MyPnAbmY4ATxu2mKu67?usp=sharing)**; **2) using your affiliation email to get the unzip password**. We will get back to you after the paper is accepted. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
 
     Name/Homepage/Google Scholar: (Tell us who you are.)
     Primary Affiliation: (The name of your institution or university, etc.)
