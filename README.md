@@ -8,7 +8,7 @@
 
 <div align=center>Fig. 2. Volume distribution or each organ in the WORD dataset.<img src="./figures/size.png"></div>
 
-<div align=center>Fig. 3. Comparison results of CNN-based and Transformer-based methods.<img src="./figures/size.png"></div>
+<div align=center>Fig. 3. Comparison results of CNN-based and Transformer-based methods.<img src="./figures/sota.png"></div>
 
 <div align=center>Fig. 4.  User study based on three junior oncologists independently, each of them comes from a different hospital.<img src="./figures/user.png"></div>
 
