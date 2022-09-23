@@ -35,6 +35,7 @@ It would be highly appreciated if you cite our paper when using the **WORD** dat
     @article{luo2022word,
       title={{WORD}: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image},
       author={Xiangde Luo, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, and Shaoting Zhang},
+      journal={Medical Image Analysis},
       volume={},
       pages={},
       year={2022},
