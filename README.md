@@ -1,7 +1,7 @@
 # <div align=center> [WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image](https://arxiv.org/pdf/2111.02403.pdf)</div>
 <!-- * [**New**] **We further annotate several open available and unseen datasets (20 cases from MSD Liver, 20 cases from MSD Pancras, and more than 1k unseen cases from multi-centers) to evaluate the robustness and generalization of deep learning methods. In addition, we build a dataset with more than 3.5k abdominal CT volumes pseudo labels for academic research (self-/semi-/weakly-supervised learning and pseudo labeling), looking forward to the collaboration, please email me at any time.**
 * Note that all the emails about the download permission of WORD will be handled after the paper is accepted, all information will be updated in time in this repo, please don't send them multiple times!!! -->
-* This repo provides the codebase and dataset of work **WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image**, and **the download requirement will be approved after the paper is accepted, stay tuned !!!**
+* This repo provides the codebase and dataset of work **WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image**. Now, this work has been fully accepted by **Medical Image Analysis**, so each download requirement will be approved **within two days**.
 <!-- * Now, we are preparing an online evaluation server for the fair and open research if you have experience with it or want to join or provide some support to this project, please contact us !!! -->
 * Some information about the **WORD** dataset is  presented in the following:
 <div align=center>Fig. 1. An example in the WORD dataset.<img src="./figures/show_data_info.png"></div>
@@ -13,7 +13,7 @@
 <div align=center>Fig. 4.  User study based on three junior oncologists independently, each of them comes from a different hospital.<img src="./figures/user.png"></div>
 
 # DataSet
-Please contact Xiangde (luoxd1996 AT gmail DOT com) for the dataset. Two steps are needed to download and access the dataset: **1) using your google email to apply for the download permission ([Goole Driven](https://drive.google.com/drive/folders/16qwlCxH7XtJD9MyPnAbmY4ATxu2mKu67?usp=sharing), [BaiduPan](https://pan.baidu.com/s/1mXUDbUPgKRm_yueXT6E_Kw))**; **2) using your affiliation email to get the unzip password/BaiduPan access code**. We will get back to you after the paper is accepted. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
+Please contact Xiangde (luoxd1996 AT gmail DOT com) for the dataset. Two steps are needed to download and access the dataset: **1) using your google email to apply for the download permission ([Goole Driven](https://drive.google.com/drive/folders/16qwlCxH7XtJD9MyPnAbmY4ATxu2mKu67?usp=sharing), [BaiduPan](https://pan.baidu.com/s/1mXUDbUPgKRm_yueXT6E_Kw))**; **2) using your affiliation email to get the unzip password/BaiduPan access code**. We will get back to you within **two days**. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
 
     Name/Homepage/Google Scholar: (Tell us who you are.)
     Primary Affiliation: (The name of your institution or university, etc.)
@@ -32,9 +32,10 @@ In addition, this work is still ongoing, the **WORD** dataset will be extended t
 # Citation
 It would be highly appreciated if you cite our paper when using the **WORD** dataset or code:
 
-    @article{luo2021word,
+    @article{luo2022word,
       title={{WORD}: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image},
-      author={Xiangde Luo, Wenjun Liao, Jianghong Xiao, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, and Shaoting Zhang},
-      journal={arXiv preprint arXiv:2111.02403},
-      year={2021}
-    }
+      author={Xiangde Luo, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, and Shaoting Zhang},
+      volume={},
+      pages={},
+      year={2022},
+      publisher={Elsevier}}
