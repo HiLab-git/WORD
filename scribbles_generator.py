@@ -262,7 +262,7 @@ if __name__ == "__main__":
         print("{} Begin".format(i.split("/")[-1]))
         itk_data = sitk.ReadImage(i)
         label = sitk.GetArrayFromImage(itk_data)
-        num_classes = 3  # total segmentation classes
+        num_classes = 16  # total segmentation classes
         output = generate_scribble(label, tuple([1, num_classes-1]))
         # ignore index for partially cross-entropy loss
         output[output == 0] = 255
