@@ -15,13 +15,14 @@
 <div align=center>Fig. 4.  User study based on three junior oncologists independently, each of them comes from a different hospital.<img src="./figures/user.png"></div>
 
 # DataSet
-Please contact Xiangde (luoxd1996 AT gmail DOT com) for the dataset (**the label of the testing set can be downloaded now [labelTs](https://github.com/HiLab-git/WORD/blob/main/WORD_V0.1.0_labelsTs.zip)**). Two steps are needed to download and access the dataset: **1) using your google email to apply for the download permission ([Goole Driven](https://drive.google.com/drive/folders/16qwlCxH7XtJD9MyPnAbmY4ATxu2mKu67?usp=sharing), [BaiduPan](https://pan.baidu.com/s/1mXUDbUPgKRm_yueXT6E_Kw))**; **2) using your affiliation email to get the unzip password/BaiduPan access code**. We will get back to you within **two days**, **so please don't send them multiple times**. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
+* Now, we have removed the download requirement permission, (PWD for BaiduPan is **ABOD**) and the WORD dataset unzip password is **word@uestc**, as we built a new robustness evaluation benchmark, please check this repo [**RAOS**](https://github.com/Luoxd1996/RAOS).
+~~Please contact Xiangde (luoxd1996 AT gmail DOT com) for the dataset (**the label of the testing set can be downloaded now [labelTs](https://github.com/HiLab-git/WORD/blob/main/WORD_V0.1.0_labelsTs.zip)**). Two steps are needed to download and access the dataset: **1) using your google email to apply for the download permission ([Goole Driven](https://drive.google.com/drive/folders/16qwlCxH7XtJD9MyPnAbmY4ATxu2mKu67?usp=sharing), [BaiduPan](https://pan.baidu.com/s/1mXUDbUPgKRm_yueXT6E_Kw))**; **2) using your affiliation email to get the unzip password/BaiduPan access code**. We will get back to you within **two days**, **so please don't send them multiple times**. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:~~
 
-    Name/Homepage/Google Scholar: (Tell us who you are.)
-    Primary Affiliation: (The name of your institution or university, etc.)
-    Job Title: (E.g., Professor, Associate Professor, Ph.D., etc.)
-    Affiliation Email: (the password will be sent to this email, we just reply to the email which is the end of "edu".)
-    How to use: (Only for academic research, not for commercial use or second-development.)
+    ~~Name/Homepage/Google Scholar: (Tell us who you are.)~~
+    ~~Primary Affiliation: (The name of your institution or university, etc.)~~
+    ~~Job Title: (E.g., Professor, Associate Professor, Ph.D., etc.)~~
+    ~~Affiliation Email: (the password will be sent to this email, we just reply to the email which is the end of "edu".)~~
+    ~~How to use: (Only for academic research, not for commercial use or second-development.)~~
     
 In addition, this work is still ongoing, the **WORD** dataset will be extended to larger and more diverse (more patients, more organs, and more modalities, more clinical hospitals' data and MR Images will be considered to include future), any **suggestion**, **comment**, **collaboration**, and **sponsor** are welcome. 
 
