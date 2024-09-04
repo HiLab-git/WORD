@@ -35,6 +35,7 @@
 # Citation
 It would be highly appreciated if you cite our paper when using the **WORD** dataset or code:
 
+
     @article{luo2022word,
       title={{WORD}: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image},
       author={Xiangde Luo, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, and Shaoting Zhang},
@@ -44,7 +45,7 @@ It would be highly appreciated if you cite our paper when using the **WORD** dat
       year={2022},
       publisher={Elsevier}}
       
-   @article{liao2023comprehensive,
+    @article{liao2023comprehensive,
       title={Comprehensive Evaluation of a Deep Learning Model for Automatic Organs-at-Risk Segmentation on Heterogeneous Computed Tomography Images for             Abdominal Radiation Therapy},
       author={Liao, Wenjun and Luo, Xiangde and He, Yuan and Dong, Ye and Li, Churong and Li, Kang and Zhang, Shichuan and Zhang, Shaoting and Wang, Guotai and Xiao, Jianghong},
       journal={International Journal of Radiation Oncology* Biology* Physics},
