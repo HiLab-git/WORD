@@ -2,6 +2,7 @@
 <!-- * [**New**] **We further annotate several open available and unseen datasets (20 cases from MSD Liver, 20 cases from MSD Pancras, and more than 1k unseen cases from multi-centers) to evaluate the robustness and generalization of deep learning methods. In addition, we build a dataset with more than 3.5k abdominal CT volumes pseudo labels for academic research (self-/semi-/weakly-supervised learning and pseudo labeling), looking forward to the collaboration, please email me at any time.**
 * Note that all the emails about the download permission of WORD will be handled after the paper is accepted, all information will be updated in time in this repo, please don't send them multiple times!!! -->
 * [**New**]  **We further annotated an open available challenging cases dataset to evaluate the robustness and generalization of deep learning methods. Please check this repo [RAOS](https://github.com/Luoxd1996/RAOS).**
+* **The real clinical application and assessment were conducted in this clinical [paper](https://www.sciencedirect.com/science/article/abs/pii/S0360301623005205), the code is [available](https://github.com/Luoxd1996/AbsegNet).**
 * This repo provides the codebase and dataset of work **WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image**. Each download requirement will be approved **within two days**.
 * Now, we corrected the results of **ESPNet+ KD** in **Table 8** and the dataset descriptions in **Table 1** with red font [Arxiv](https://arxiv.org/pdf/2111.02403.pdf) and [LaTex](https://www.overleaf.com/read/nghhwrbxcmrm).
 <!-- * Now, we are preparing an online evaluation server for the fair and open research if you have experience with it or want to join or provide some support to this project, please contact us !!! -->
@@ -42,3 +43,13 @@ It would be highly appreciated if you cite our paper when using the **WORD** dat
       pages={102642},
       year={2022},
       publisher={Elsevier}}
+      
+  @article{liao2023comprehensive,
+    title={Comprehensive Evaluation of a Deep Learning Model for Automatic Organs-at-Risk Segmentation on Heterogeneous Computed Tomography Images for             Abdominal Radiation Therapy},
+    author={Liao, Wenjun and Luo, Xiangde and He, Yuan and Dong, Ye and Li, Churong and Li, Kang and Zhang, Shichuan and Zhang, Shaoting and Wang, Guotai and Xiao, Jianghong},
+    journal={International Journal of Radiation Oncology* Biology* Physics},
+    volume={117},
+    number={4},
+    pages={994--1006},
+    year={2023},
+    publisher={Elsevier}}
